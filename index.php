@@ -1,4 +1,4 @@
 <?
-echo 'My name is Azatich';
+echo 'My name is Azat';
 
 echo '123';
